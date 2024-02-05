@@ -9,11 +9,13 @@ and [MiDaS] (https://github.com/isl-org/MiDaS) for image depth prediction.
 Screenshot #1
 
 <p align="center">
-<a href="https://ibb.co/k9txGnS"><img style="max-width:200px; width:85%"  src="https://i.ibb.co/2sTyF2k/Figure-2024-02-04-200710.png" alt="Path-Pilot-Screenshot-1" ></a>
+<a href="https://ibb.co/k9txGnS"><img style="max-width:200px; width:90%"  src="https://i.ibb.co/2sTyF2k/Figure-2024-02-04-200710.png" alt="Path-Pilot-Screenshot-1" ></a>
+</p>
 
 Screenshot #2
 
-<a href="https://ibb.co/s5DcbHy"><img style="max-width:200px; width:85%"  src="https://i.ibb.co/hXnrLfD/Figure-2024-02-04-200800.png" alt="Path-Pilot-Screenshot-2" ></a>
+<p align="center">
+<a href="https://ibb.co/s5DcbHy"><img style="max-width:200px; width:90%"  src="https://i.ibb.co/hXnrLfD/Figure-2024-02-04-200800.png" alt="Path-Pilot-Screenshot-2" ></a>
 </p>
 
 ## Setup 
