@@ -6,8 +6,8 @@ Path Pilot was built in Python, combining [ultralytics YOLOv8] (https://github.c
 and [MiDaS] (https://github.com/isl-org/MiDaS) for image depth prediction.
 
 ## Screenshots
-|<a href="https://ibb.co/k9txGnS"><img style="max-width:200px; width:100%"  src="https://i.ibb.co/2sTyF2k/Figure-2024-02-04-200710.png" alt="Path-Pilot-Screenshot-1" ></a>|
-|<a href="https://ibb.co/s5DcbHy"><img style="max-width:200px; width:100%"  src="https://i.ibb.co/hXnrLfD/Figure-2024-02-04-200800.png" alt="Path-Pilot-Screenshot-2" ></a>|
+<a href="https://ibb.co/k9txGnS"><img style="max-width:200px; width:75%"  src="https://i.ibb.co/2sTyF2k/Figure-2024-02-04-200710.png" alt="Path-Pilot-Screenshot-1" ></a>
+<a href="https://ibb.co/s5DcbHy"><img style="max-width:200px; width:75%"  src="https://i.ibb.co/hXnrLfD/Figure-2024-02-04-200800.png" alt="Path-Pilot-Screenshot-2" ></a>
 
 
 ## Setup 
