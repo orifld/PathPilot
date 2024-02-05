@@ -17,7 +17,7 @@ import argparse
 
 
 #Load YOLO V8 for segments prediction
-model_source = 'Models/YOLO_V8/weights/best.pt' #medium
+model_source = 'YOLO_v8/weights/best.pt' #medium
 model = YOLO(model_source)
 sound_dir = 'Sound/'
 
@@ -55,7 +55,7 @@ classes = ['bench', 'bollard', 'bush', 'cabinet', 'car', 'car-barrier', 'chair',
 
 
 #Predict segments
-frames = model.predict(source=args.video_source_path, save=True, save_txt=False, stream=True, boxes=False, show=False)
+frames = model.predict(source=args.video_source_path, save=False, save_txt=False, stream=True, boxes=False, show=False)
 col_masks = Util_funcs.create_column_masks()
 road_sidewalk_masks = Util_funcs.create_road_sidewalk_mask()
 
