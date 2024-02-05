@@ -21,7 +21,7 @@ pip install timm
 ## Usage
 
 ```shell
-python Main.py --video_source_path './Videos/GH012163_640_2FPS.mp4'
+python Main.py --video_source_path [input_video_path]
 ```
 
 ## Screenshots
